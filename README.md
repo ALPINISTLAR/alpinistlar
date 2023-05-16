@@ -27,3 +27,17 @@
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 </p>
+
+## So'nggi loyihalar:
+| Ko'rinishi  | Ta'rifi |
+|---|---|
+| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/uehz7kwoo7gesfebbqi8.jpg" width="250"> | <b>E-commerce product page</b> <br>onlayn do'konning mahsulot sahifasi;  <br><br> 📰 [Repo](https://github.com/ALPINISTLAR/ecommerce-product-page) - 🌐 [Netlify](https://saidmurodkhon-ecommerce-product-page.netlify.app/) <br><br> <b>Sarflangan vaqt:</b> 7 soat 45 daqiqa; |
+| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/yezt1f56cfp2njnakpbo.jpg" width="250">  | <b>Easybank landing page</b> <br>onlayn bankning uchun mobil ilovaning promo sahifasi;  <br><br> 📰 [Repo](https://github.com/ALPINISTLAR/Easybank) - 🌐 [Netlify](https://saidmurodkhon-easybank.netlify.app/) <br><br> <b>Sarflangan vaqt:</b> 3 soat 20 daqiqa;  |
+
+<a href="https://saidmurodkhon.uz">Barcha loyihalar</a>
+
+<h3 align="left">Kontaktlar:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/saidmurodkhon-khusanov-b67947276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saidmurodkhon-khusanov-b67947276/" height="30" width="40" /></a>
+<a href="https://instagram.com/saidmurodhusanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saidmurodhusanov" height="30" width="40" /></a>
+</p>
