@@ -31,8 +31,8 @@
 ## So'nggi loyihalar:
 | Ko'rinishi  | Ta'rifi |
 |---|---|
-| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/uehz7kwoo7gesfebbqi8.jpg" width="250"> | <b>E-commerce product page</b> <br>onlayn do'konning mahsulot sahifasi;  <br><br> 📰 [Repo](https://github.com/ALPINISTLAR/ecommerce-product-page) - 🌐 [Netlify](https://saidmurodkhon-ecommerce-product-page.netlify.app/) <br><br> <b>Sarflangan vaqt:</b> 7 soat 45 daqiqa; |
-| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/yezt1f56cfp2njnakpbo.jpg" width="250">  | <b>Easybank landing page</b> <br>onlayn bankning uchun mobil ilovaning promo sahifasi;  <br><br> 📰 [Repo](https://github.com/ALPINISTLAR/Easybank) - 🌐 [Netlify](https://saidmurodkhon-easybank.netlify.app/) <br><br> <b>Sarflangan vaqt:</b> 3 soat 20 daqiqa;  |
+| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/uehz7kwoo7gesfebbqi8.jpg" width="250">  <br> [Maket manbasi](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6) | <b>E-commerce product page</b> <br>onlayn do'konning mahsulot sahifasi;  <br><br> 📰 [Repo](https://github.com/ALPINISTLAR/ecommerce-product-page) - 🌐 [Netlify](https://saidmurodkhon-ecommerce-product-page.netlify.app/) <br><br> <b>Sarflangan vaqt:</b> 7 soat 45 daqiqa; |
+| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/yezt1f56cfp2njnakpbo.jpg" width="250"> <br> [Maket manbasi](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN) | <b>Easybank landing page</b> <br>onlayn bankning uchun mobil ilovaning promo sahifasi;  <br><br> 📰 [Repo](https://github.com/ALPINISTLAR/Easybank) - 🌐 [Netlify](https://saidmurodkhon-easybank.netlify.app/) <br><br> <b>Sarflangan vaqt:</b> 3 soat 20 daqiqa;  |
 
 <a href="https://saidmurodkhon.uz">Barcha loyihalar</a>
 
