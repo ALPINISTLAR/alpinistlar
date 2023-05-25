@@ -5,7 +5,7 @@
 - 🌱 Hozirda o'rganayapman: **HTML, CSS, Java Script, SASS, Bootstrap;**
 
 - 📫 Email orqali bog'lanish: **saidmurod435@gmail.com**
-- [Telegram](https://t.me/ontario24) | [Portfolio](https://www.saidmurodkhon-portfolio.netlify.app)
+- [Telegram](https://t.me/ontario24) | [Portfolio](https://saidmurodkhon-portfolio.netlify.app)
 
 <p align="left">
 </p>
